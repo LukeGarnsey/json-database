@@ -1,0 +1,16 @@
+{
+    "name": "UnityProject.JUD.Base",
+    "rootNamespace": "",
+    "references": [
+        "JUDRuntime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

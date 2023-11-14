@@ -1,0 +1,16 @@
+{
+    "name": "JUDExamples",
+    "rootNamespace": "",
+    "references": [
+        "JUDRuntime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

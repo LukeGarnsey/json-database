@@ -1,0 +1,17 @@
+{
+    "name": "com.liberty.jud",
+    "version": "0.5.1",
+    "unity": "2019.1",
+    "displayName": "Json Unity Database",
+    "description": "Current version is way quick way of saving and loading json files within the Unity Editor. The idea being you would use this to create Data for your game that is to be shipped with the game. During runtime it can be used to generate Data models on the fly, but saving those models at runtime outside the editor is not setup.",
+    "keywords": [
+        "Data",
+        "Models",
+        "Save",
+        "Load"
+      ],
+    "author": {
+      "name": "Luke Garnsey",
+      "email": "lukegarnsey@gmail.com"
+    }
+  }
